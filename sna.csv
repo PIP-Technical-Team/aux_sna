@@ -1,0 +1,29 @@
+﻿countryname,coverage,countrycode,year,GDP,PCE,sourceGDP,sourcePCE
+India,Rural,IND,2011,,787.8468628,,India impuation passthrough 
+India,Urban,IND,2011,,787.8468628,,India impuation passthrough 
+India,Rural,IND,2012,,810.7265787,,India impuation passthrough 
+India,Urban,IND,2012,,805.8235329,,India impuation passthrough 
+India,Urban,IND,2013,,832.8918764,,India impuation passthrough 
+India,Rural,IND,2013,,845.1776759,,India impuation passthrough 
+India,Urban,IND,2014,,857.5126527,,India impuation passthrough 
+India,Rural,IND,2014,,876.5136442,,India impuation passthrough 
+India,Urban,IND,2015,,891.1439377,,India impuation passthrough 
+India,Rural,IND,2015,,919.3176919,,India impuation passthrough 
+India,Urban,IND,2016,,932.6880575,,India impuation passthrough & WDI adjustment
+India,Rural,IND,2016,,962.1752402,,India impuation passthrough & WDI adjustment
+India,Rural,IND,2017,,999.6930689,,India impuation passthrough & WDI adjustment
+India,Urban,IND,2017,,969.0561007,,India impuation passthrough & WDI adjustment
+India,Rural,IND,2018,,1040.229347,,India impuation passthrough & WDI adjustment
+India,Urban,IND,2018,,1008.350089,,India impuation passthrough & WDI adjustment
+India,Rural,IND,2019,,1069.644299,,India impuation passthrough & WDI adjustment
+India,Urban,IND,2019,,1036.863579,,India impuation passthrough & WDI adjustment
+Syrian Arab Republic,National,SYR,2010,1,,Will be be used for chaining the remainder,
+Syrian Arab Republic,National,SYR,2011,0.953477788,,"Gobat and Kostial (2016), Appendix Table 3, real growth minus WDI population growth",
+Syrian Arab Republic,National,SYR,2012,0.773895183,,"Gobat and Kostial (2016), Appendix Table 3, real growth minus WDI population growth",
+Syrian Arab Republic,National,SYR,2013,0.667251551,,"Gobat and Kostial (2016), Appendix Table 3, real growth minus WDI population growth",
+Syrian Arab Republic,National,SYR,2014,0.581616401,,"Gobat and Kostial (2016), Appendix Table 3, real growth minus WDI population growth",
+Syrian Arab Republic,National,SYR,2015,0.51410406,,"Gobat and Kostial (2016), Appendix Table 3, real growth minus WDI population growth",
+Syrian Arab Republic,National,SYR,2016,0.449313881,,"Devadas et al. (2019), data provided by the authors, Real GDP per capita (USD)",
+Syrian Arab Republic,National,SYR,2017,0.363887564,,"Devadas et al. (2019), data provided by the authors, Real GDP per capita (USD)",
+Syrian Arab Republic,National,SYR,2018,0.321613296,,"Devadas et al. (2019), data provided by the authors, Real GDP per capita (USD)",
+Syrian Arab Republic,National,SYR,2019,0.314417753,,"Devadas et al. (2019), data provided by the authors, Real GDP per capita (USD)",
