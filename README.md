@@ -1,2 +1,1 @@
-# pip-sna
-Special national accounts countries
+# Special national accounts countries
